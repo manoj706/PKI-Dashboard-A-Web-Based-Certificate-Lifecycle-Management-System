@@ -24,12 +24,8 @@ Integrate automated email notifications for certificates nearing expiration.
 
 Technology Stack
 
-Frontend: React.js, HTML, CSS, JavaScript
+Frontend: React.js, Bootstrap
 
-Backend: Node.js, Express.js
-
-Database: MongoDB or MySQL
+Backend: Amazon AWS Lambda
 
 Security Tools: OpenSSL, PKI Libraries
-
-Email Notifications: Nodemailer or SMTP Integration
