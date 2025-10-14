@@ -26,6 +26,6 @@ Technology Stack
 
 Frontend: React.js, Bootstrap
 
-Backend: Amazon AWS Lambda
+Backend: Firebase
 
 Security Tools: OpenSSL, PKI Libraries
